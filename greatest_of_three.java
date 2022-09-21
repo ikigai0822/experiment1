@@ -17,5 +17,6 @@ public class greatest_of_three {
 			System.out.println("b is the greatest\n"+ b);
 		else if (c>b && c>a)
 			System.out.println("c is the greatest\n"+c);
+		System.out.println("Sum of the three no."+(a+b+c));// adding the sum of the three numbers
     }
 }
